@@ -2,6 +2,6 @@ KEN RESOLUSI
 - Saya pengen bisa manage waktu produktif saya
 - Cuma pengen tidak malas malasan
 - Hari minggu tetap produktif
-- hmm apa lagi ditambahkan ya?
-- Belajar Bootstrap
+- Belajar Bootsrap
 - belajar oop
+
